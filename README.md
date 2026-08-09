@@ -53,7 +53,7 @@ Feel free to reach out or check my projects here on GitHub. 👋
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=oabumotlaq&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=oabumotlaq&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=oabumotlaq&icon=0&color=0)](https://visitcount.osamaabumotlaq.vercel.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
