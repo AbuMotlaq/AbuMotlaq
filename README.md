@@ -9,11 +9,9 @@ Frontend Developer passionate about building modern and responsive web applicati
 - 🌍 Interested in web development and real-world projects
 
 ## 🛠️ Skills
-- HTML5
-- CSS3
-- JavaScript
+- HTML5 & CSS3
+- JavaScript & TypeScript
 - React
-- Material UI
 
 ## 📫 Contact
 Feel free to reach out or check my projects here on GitHub. 👋
