@@ -19,7 +19,8 @@ Feel free to reach out or check my projects here on GitHub. 👋
 
 
 ##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osama_motlaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osamaabumotlaq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abumotlaq1)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oabumotlaq@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osama_motlaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osamaabumotlaq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abumotlaq1)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oabumotlaq@gmail.com) 
+[![stackoverflow](https://img.shields.io/badge/stackoverflow-%23E4405F.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/osama-abu-motlaq)
 
 # 💻 Tech Stack:
 <p>
