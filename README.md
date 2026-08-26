@@ -40,12 +40,12 @@ Feel free to reach out or check my projects here on GitHub. 👋
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=oabumotlaq&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=abumotlaq&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=oabumotlaq&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abumotlaq&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=abumotlaq&icon=0&color=0)](https://osamaabumotlaq.vercel.app)
+[![](https://komarev.com/ghpvc/?username=abumotlaq&icon=0&color=436)](https://osamaabumotlaq.vercel.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
