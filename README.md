@@ -8,12 +8,6 @@ Full Stack JavaScript Developer passionate about building modern and responsive 
 - 📚 Currently improving my skills in frontend development
 - 🌍 Interested in web development and real-world projects
 
-## 🛠️ Skills
-- HTML5 & CSS3
-- JavaScript & TypeScript
-- React & Next.js
-- Nodejs & Express.js
-
 ## 📫 Contact
 Feel free to reach out or check my projects here on GitHub. 👋
 
@@ -39,7 +33,6 @@ Feel free to reach out or check my projects here on GitHub. 👋
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -49,10 +42,10 @@ Feel free to reach out or check my projects here on GitHub. 👋
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=oabumotlaq&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=oabumotlaq&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=oabumotlaq&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abumotlaq&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=oabumotlaq&icon=0&color=0)](https://osamaabumotlaq.vercel.app)
+[![](https://komarev.com/ghpvc/?username=abumotlaq&icon=0&color=0)](https://osamaabumotlaq.vercel.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
