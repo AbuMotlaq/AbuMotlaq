@@ -36,12 +36,19 @@ Feel free to reach out or check my projects here on GitHub. 👋
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abumotlaq&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=oabumotlaq&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abumotlaq&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api?username=AbuMotlaq&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false" height="180" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbuMotlaq&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=AbuMotlaq&theme=shadow_green&hide_border=true" />
+
+</div>
 
 ---
 [![](https://komarev.com/ghpvc/?username=abumotlaq&icon=0&color=436)](https://osamaabumotlaq.vercel.app)
