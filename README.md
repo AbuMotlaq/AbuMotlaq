@@ -14,7 +14,7 @@
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osama_motlaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osamaabumotlaq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abumotlaq1)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oabumotlaq@gmail.com) 
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23E4405F.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33051014/osama-abu-motlaq//)
-[![Dev.to](https://img.shields.io/badge/dev.to-%23E4405F.svg?logo=Instagram&logoColor=white)](https://dev.to/abumotlaq)
+[![Dev.to](https://img.shields.io/badge/dev.to-%23E4405F.svg?logo=Dev.to&logoColor=white)](https://dev.to/abumotlaq)
 
 <a href="https://dev.to/abumotlaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abumotlaq" height="30" width="40" /></a>
 </p>
